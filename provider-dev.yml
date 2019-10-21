@@ -31,4 +31,4 @@ eureka:
       eviction-interval-timer-in-ms: 5000
 
 test:
- message:hello!
+  message:  hello!
