@@ -22,4 +22,4 @@ spring:
     username: root
 
 test:
-  message: hello!
+  message: hello666!
